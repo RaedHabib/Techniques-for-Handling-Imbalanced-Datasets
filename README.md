@@ -1,5 +1,6 @@
 # Techniques-for-Handling-Imbalanced-Datasets
-![image](https://github.com/RaedHabib/Techniques-for-Handling-Imbalanced-Datasets/assets/127057461/e12f2bfd-ddd4-4f1e-9ebe-df065e17c339)
+![image](https://github.com/RaedHabib/Techniques-for-Handling-Imbalanced-Datasets/assets/127057461/837b6666-e564-43aa-ac65-5651edf5cebf)
+
 
 ## :dart: About : ##
 A full Data Science project covering and comparing various techniques for handling imbalanced datasets.
