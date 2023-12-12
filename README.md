@@ -2,7 +2,7 @@
 ![image](https://github.com/RaedHabib/Techniques-for-Handling-Imbalanced-Datasets/assets/127057461/837b6666-e564-43aa-ac65-5651edf5cebf)
 
 
-## :dart: About: ##
+## About: ##
 A full Data Science project covering and comparing various techniques for handling imbalanced datasets.
 
 The dataset is the "Personal Key Indicators of Heart Disease" obtained from Kaggle at the following link:
